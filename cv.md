@@ -1,7 +1,6 @@
-First Name: Vladimir
-
-Last Name: Zinovev
-
-Telegram: @iamzvv
-
-About: Junior Developer at RS School. Main job is Project manager.
+# CV Card
+* About
+    *First Name*: Vladimir
+    *Last Name*: Zinovev
+    *Telegram*: @iamzvv
+    Junior Developer at RS School. Main job is Project manager.
